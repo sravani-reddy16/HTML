@@ -32,20 +32,21 @@
             <table style="width: 100%">
                 <tr>
                     <td style="width: 90%">
-                        <h2>Sravani Javvaji</h2><pre><address>
-Potlapadu,
-Guntur,
+                        <h2>Sravani</h2><pre><address>
+Yerragunta,
+Kanekal,
 Andhra Pradesh
 </address>
 </pre>
-<a href="mailto:sravanijavvaji2001@gmail.com"><i class="fa-solid fa-envelope"></i></a>
-<a href="mailto: sravanijavvaji2001@gmail.com">sravanijavvaji2001@gmail.com</a>
+<a href="mailto:sravani16.career@gmail.com"><i class="fa-solid fa-envelope"></i></a>
+<a href="mailto: sravani16.career@gmail.com">sravanijavvaji2001@gmail.com</a>
 <br>
-<a href="tel:8919219797"><i class="fa-solid fa-phone"></i></a>
-<a href="tel:9866676523">8919219797</a>
+<a href="tel:8125958948"><i class="fa-solid fa-phone"></i></a>
+<a href="tel:9440340948">8125958948</a>
                     </td>
                     <td style="width: 10%">
-                        <img src="small pic.jpg" alt="sravani pic" height="200" width="200">
+                        <img src="![tobesent](https://github.com/sravani-reddy16/HTML/assets/153751947/f8e29519-03de-4f3a-8180-4846af1b4060)
+" alt="sravani pic" height="200" width="200">
                     </td>
                 </tr>
             </table>
